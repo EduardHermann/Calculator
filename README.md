@@ -12,7 +12,13 @@
 
 ## How to start the programm
 
-- If you don't want the notation of all the calculations just double click the "calculator.jar" file.
-- If you want the notation firstly extract the "calculatorWIth"
+- If you don't want the notation of all the calculations just double click the "Calculator.jar" file.
+- If you want the notation firstly extract the "CalculatorWithConsole.zip" file.
+- Then open up the file and double click the "RUN.bat" file
+
 ## What I have learned from this project
+
+- Basic math in programming
+- Conversions of datatypes
+- building up a GUI
 
