@@ -14,7 +14,7 @@
 
 - If you don't want the notation of all the calculations just double click the "Calculator.jar" file.
 - If you want the notation firstly extract the "CalculatorWithConsole.zip" file.
-- Then open up the file and double click the "RUN.bat" file
+- Then open up the file and double click the "RUN.bat" file.
 - !!!Attention, you need at least Java 1.8 in oder to start the programm and windows has to be installed on your pc!!!
 
 ## What I have learned from this project
