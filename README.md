@@ -21,5 +21,5 @@
 
 - Basic math in programming
 - Conversions of datatypes
-- building a GUI
+- Building a GUI
 
