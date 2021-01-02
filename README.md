@@ -10,7 +10,7 @@
     - calculate the modulo value of two numbers.    
 - Besides that the ".zip" file brings a notation of all the calculations with it. 
 
-## How to start the programm
+## How to start the program
 
 - If you don't want the notation of all the calculations just double click the "Calculator.jar" file.
 - If you want the notation firstly extract the "CalculatorWithConsole.zip" file.
